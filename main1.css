@@ -1,0 +1,30 @@
+body{
+    background-image: url(/assignment1/Jellyfish.jpg);
+}
+
+caption{
+    text-align: center;
+    font-size: 23px;
+    color:aqua;
+}
+table, th, td {
+    border: 1px solid ;
+    border-collapse: collapse;
+    width:50%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+thead{
+    color:lightsalmon;
+    font-size: 17px;
+}
+tbody{
+    color:aliceblue;
+    font-size: 16px;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
